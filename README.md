@@ -1,3 +1,8 @@
+
+
+![thiare(2)](https://user-images.githubusercontent.com/92308305/163724185-5b89df49-c679-4600-9928-cac6c9b29e18.png)
+
+
 ## Hi there 👋
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=thiareMohamed&count_private=true&show_icons=true&theme=dark)
@@ -23,3 +28,8 @@
 ![Linkedin Badge](https://img.shields.io/badge/-thiareMohamed-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-thiare-b49b03214/)
 ![Gmail Badge](https://img.shields.io/badge/-thiareMohamed-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:thiareMohamed.mt@gmail.com)
 ![Twitter Badge](https://img.shields.io/badge/-@_d_specialist-purple?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/_d_specialist/)
+
+
+
+![thiare(4)](https://user-images.githubusercontent.com/92308305/163724194-c81cdd93-c9a8-4db2-8890-5c30cca09475.png)
+
