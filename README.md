@@ -1,9 +1,7 @@
-
-
-![thiare(2)](https://user-images.githubusercontent.com/92308305/163724185-5b89df49-c679-4600-9928-cac6c9b29e18.png)
-
-
 ## Hi there 👋
+## Welcome
+
+My name is Mohamed THIARE 
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=thiareMohamed&count_private=true&show_icons=true&theme=dark)
 
