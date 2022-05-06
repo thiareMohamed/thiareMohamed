@@ -28,6 +28,5 @@ My name is Mohamed THIARE
 ![Twitter Badge](https://img.shields.io/badge/-@_d_specialist-purple?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/_d_specialist/)
 
 
-
-![thiare(4)](https://user-images.githubusercontent.com/92308305/163724194-c81cdd93-c9a8-4db2-8890-5c30cca09475.png)
+![Mohamed THIARE Banner](https://user-images.githubusercontent.com/92308305/167166498-a8702ee9-ed37-4222-b93f-c2efccd4dfbc.svg)
 
