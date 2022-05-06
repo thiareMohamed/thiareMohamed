@@ -3,7 +3,7 @@
 
 My name is Mohamed THIARE 
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=thiareMohamed&count_private=true&show_icons=true&theme=dark)
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=thiareMohamed&count_private=true&show_icons=true&theme=light)
 
 ### Languages and Tools:
 
