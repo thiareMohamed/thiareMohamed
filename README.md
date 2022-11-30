@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## Welcome
 
-My name is Mohamed THIARE 
+My name is THIARE
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=thiareMohamed&count_private=true&show_icons=true&theme=light)
 
@@ -30,6 +30,5 @@ My name is Mohamed THIARE
 ![Gmail Badge](https://img.shields.io/badge/-thiareMohamed-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:thiareMohamed.mt@gmail.com)
 ![Twitter Badge](https://img.shields.io/badge/-@_d_specialist-purple?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/_d_specialist/)
 
-
-![Mohamed THIARE Banner](https://user-images.githubusercontent.com/92308305/167166855-1a5e79ee-5981-46f4-a71f-6981f58f204a.png)
+![THIARE Banner](https://user-images.githubusercontent.com/92308305/204787076-0ca26acc-b5bf-43bf-9bba-7283029d5037.png)
 
