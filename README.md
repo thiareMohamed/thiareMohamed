@@ -1,6 +1,4 @@
 ## Hi there 👋
-## Welcome
-
 My name is THIARE
 
 ### Languages and Tools:
